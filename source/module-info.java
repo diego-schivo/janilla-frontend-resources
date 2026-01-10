@@ -22,6 +22,7 @@
  * SOFTWARE.
  */
 module com.janilla.frontend.resources {
+
 	exports com.janilla.frontend.resources;
 
 	opens com.janilla.frontend.resources;
