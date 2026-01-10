@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.janilla</groupId>
 	<artifactId>janilla-frontend-resources</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<properties>
 		<maven.compiler.parameters>true</maven.compiler.parameters>
 		<maven.compiler.release>25</maven.compiler.release>
@@ -75,7 +75,7 @@
 		<connection>scm:git:git://github.com/diego-schivo/janilla-frontend-resources.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/diego-schivo/janilla-frontend-resources.git</developerConnection>
 		<url>https://github.com/diego-schivo/janilla-frontend-resources</url>
-		<tag>HEAD</tag>
+		<tag>janilla-frontend-resources-1.0.0</tag>
 	</scm>
 	<profiles>
 		<profile>
