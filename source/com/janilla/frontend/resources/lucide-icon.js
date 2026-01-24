@@ -37,7 +37,7 @@ export default class LucideIcon extends WebComponent {
 	}
 
 	async updateDisplay() {
-		const s = this.state;
+		const s = this.customState ?? this.state;
 		if (this.dataset.name === s.name)
 			return;
 		s.name = this.dataset.name;
