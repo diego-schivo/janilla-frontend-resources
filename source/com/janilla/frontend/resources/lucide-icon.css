@@ -21,7 +21,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-lucide-icon {
+:where(lucide-icon) {
   aspect-ratio: 1;
   display: block;
   width: 1rem;
